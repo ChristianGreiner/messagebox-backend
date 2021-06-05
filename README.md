@@ -1,4 +1,5 @@
-# Message Backend
+# Messagebox Backend
+
 The backend of the Messagebox hardware (https://github.com/ChristianGreiner/messagebox-hardware)
 
 ## Current features
