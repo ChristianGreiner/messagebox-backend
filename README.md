@@ -27,7 +27,7 @@ After some time, your messagebox should show "Device Registered" and should be r
 
 **Dashboard**
 
-![screenshot01](https://user-images.githubusercontent.com/6233308/120903547-f5df6200-c646-11eb-9509-5af0ca7c02af.jpg)
+![screenshot01](https://user-images.githubusercontent.com/6233308/120904799-62119400-c64e-11eb-8ccb-8384f7cf9cce.jpg)
 
 **Send new message**
 
