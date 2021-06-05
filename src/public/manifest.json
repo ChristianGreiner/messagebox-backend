@@ -1,0 +1,19 @@
+{
+    "name": "Messagebox",
+    "short_name": "Messagebox",
+    "start_url": "/messages",
+    "display": "fullscreen",
+    "background_color": "#f4f6fa",
+    "description": "Messagebox",
+    "icons": [{
+        "src": "images/icons/icon48.svg",
+        "sizes": "48x48"
+    },
+    {
+        "src": "images/icons/icon72.svg",
+        "sizes": "72x72"
+    }],
+    "related_applications": [{
+        "platform": "Web"
+    }]
+}
